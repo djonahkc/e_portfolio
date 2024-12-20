@@ -7,6 +7,7 @@ import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
 import './styles/globals.css'
 import { SpeedInsights } from "@vercel/speed-insights/react"
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       </main>
       <Footer />
       <SpeedInsights />
+      <Analytics />
     </div>
   );
 }
