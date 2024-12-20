@@ -4,7 +4,7 @@ import { ExternalLink, Github } from 'lucide-react';
 const projects = [
   {
     title: 'SaaS Product "KitchAI"',
-    description: 'A mobile app that allows users to create and manage their own recipes.',
+    description: 'A mobile app that allows users to create and make their own recipes.',
     image: 'https://images.unsplash.com/photo-1498837167922-ddd27525d352?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     tech: ['React Native', 'Typescript', 'Supabase'],
     liveUrl: 'https://example.com',
