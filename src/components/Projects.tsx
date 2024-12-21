@@ -78,7 +78,7 @@ export function Projects() {
                   >
                     <ExternalLink size={16} className="mr-1" /> Live Demo
                   </a>
-                  0"
+                  
                 
                 
                 
