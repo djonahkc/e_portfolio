@@ -78,12 +78,10 @@ export function Projects() {
                   >
                     <ExternalLink size={16} className="mr-1" /> Live Demo
                   </a>
-                  <a
-                    href={project.githubUrl}
-                    className="flex items-center text-gray-600 hover:text-gray-700"
-                  >
+                  0"
                 
-                  </a>
+                
+                
                 </div>
               </div>
             </div>
