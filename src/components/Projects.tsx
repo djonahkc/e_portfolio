@@ -15,7 +15,7 @@ const projects = [
     description: 'A simple to do app that allows users to create and manage their own tasks.',
     image: 'https://images.unsplash.com/photo-1598791318878-10e76d178023?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     tech: ['React', 'Typescript'],
-    liveUrl: 'https://example.com',
+    liveUrl: 'https://todo-app-one-tawny-64.vercel.app',
     
   },
   {
