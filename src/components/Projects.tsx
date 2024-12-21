@@ -82,7 +82,7 @@ export function Projects() {
                     href={project.githubUrl}
                     className="flex items-center text-gray-600 hover:text-gray-700"
                   >
-                    <Github size={16} className="mr-1" /> Code
+                
                   </a>
                 </div>
               </div>
