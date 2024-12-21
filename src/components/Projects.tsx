@@ -8,7 +8,7 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1498837167922-ddd27525d352?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     tech: ['React Native', 'Typescript', 'Supabase'],
     liveUrl: 'https://example.com',
-    githubUrl: 'https://github.com',
+    
   },
   {
     title: 'To do App',
@@ -16,7 +16,7 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1598791318878-10e76d178023?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     tech: ['React', 'Typescript'],
     liveUrl: 'https://example.com',
-    githubUrl: 'https://github.com',
+    
   },
   {
     title: 'Netflix Clone',
@@ -24,7 +24,7 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     tech: ['React', 'Typescript', 'Python'],
     liveUrl: 'https://example.com',
-    githubUrl: 'https://github.com',
+    
   },
   {
     title: 'Weather app',
@@ -32,7 +32,7 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1630260667842-830a17d12ec9?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     tech: ['Python'],
     liveUrl: 'https://example.com',
-    githubUrl: 'https://github.com',
+    
   },
 ];
 
