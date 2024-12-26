@@ -18,7 +18,7 @@ export function Hero() {
           
           <h1 className="text-5xl font-bold text-gray-900 mb-6 animate-slide-up [animation-delay:200ms]">
             Hi, I'm Djonah Cruden
-            <span className="block text-indigo-600">Junior Full Stack Developer</span>
+            <span className="block text-indigo-600">Full Stack Developer</span>
           </h1>
 
           <p className="text-xl text-gray-600 mb-8 animate-slide-up [animation-delay:400ms]">
