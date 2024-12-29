@@ -3,10 +3,10 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
-    title: 'SaaS Product "KitchAI"',
-    description: 'A mobile app that allows users to create and make their own recipes.',
+    title: 'Uber eats clone',
+    description: 'A clone of the popular food delivery service Uber Eats.',
     image: 'https://images.unsplash.com/photo-1498837167922-ddd27525d352?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    tech: ['React Native', 'Typescript', 'Supabase'],
+    tech: ['React', 'Typescript', 'Supabase'],
     liveUrl: 'https://example.com',
     
   },
