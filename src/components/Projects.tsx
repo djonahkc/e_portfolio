@@ -1,4 +1,3 @@
-import React from 'react';
 import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
@@ -110,7 +109,7 @@ export function Projects() {
 
         <div className="flex justify-center mt-12">
           <a
-            href="https://github.com/djonahkc"
+            href="https://github.com/djonahkc?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition-colors flex items-center"
