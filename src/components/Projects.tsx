@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'Bed & Breakfast Website',
     description: 'A website for a Bed & Breakfast business.',
-    image: 'https://images.unsplash.com/photo-1498837167922-ddd27525d352?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://unsplash.com/photos/white-bed-comforter-near-table-lamp-g5ZIXjzRGds',
     tech: ['React', 'Typescript', 'Vite', 'Tailwind'],
     liveUrl: 'https://b-b-diemerbrug.vercel.app',
     
