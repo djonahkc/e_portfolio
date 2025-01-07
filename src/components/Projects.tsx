@@ -20,7 +20,7 @@ const projects = [
   {
     title: 'E-commerce Website for a water bottle company',
     description: 'A website for a water bottle company that allows users to purchase smart water bottles.',
-    image: 'https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://unsplash.com/photos/person-holding-gray-sports-bottle-near-nozzle-wxW37QUEYDY',
     tech: ['React', 'Typescript', 'Python'],
     liveUrl: 'https://ecommerce-wotta.vercel.app',
     
